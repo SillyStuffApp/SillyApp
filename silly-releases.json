@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "note": "Silly App's list of updates (made when publishing).",
+  "releases": [
+    {
+      "tag_name": "v2.0.3",
+      "published_at": "2026-11-01T16:12:41Z",
+      "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.0.3",
+      "body": "I added tally and fix some other stuff\n\n<!-- silly-build:833219432f63 -->",
+      "assets": [
+        {
+          "name": "SillyApp-2.0.3-guest.sillyupdate",
+          "label": "Silly App 2.0.3 (Guest)",
+          "size": 2465471,
+          "created_at": "2026-11-01T16:12:42Z",
+          "updated_at": "2026-11-01T16:12:43Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.3/SillyApp-2.0.3-guest.sillyupdate"
+        },
+        {
+          "name": "SillyApp-2.0.3-visp.sillyupdate",
+          "label": "Silly App 2.0.3 (VISP)",
+          "size": 2460035,
+          "created_at": "2026-11-01T16:12:44Z",
+          "updated_at": "2026-11-01T16:12:45Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.3/SillyApp-2.0.3-visp.sillyupdate"
+        }
+      ]
+    },
+    {
+      "tag_name": "v2.0.2",
+      "published_at": "2026-11-01T13:52:18Z",
+      "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.0.2",
+      "body": "Added new theme :p\n\n<!-- silly-build:bffeab316e32 -->",
+      "assets": [
+        {
+          "name": "SillyApp-2.0.2-guest.sillyupdate",
+          "label": "Silly App 2.0.2 (Guest)",
+          "size": 2448774,
+          "created_at": "2026-11-01T14:37:00Z",
+          "updated_at": "2026-11-01T14:37:01Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.2/SillyApp-2.0.2-guest.sillyupdate"
+        },
+        {
+          "name": "SillyApp-2.0.2-visp.sillyupdate",
+          "label": "Silly App 2.0.2 (VISP)",
+          "size": 2443340,
+          "created_at": "2026-11-01T14:37:02Z",
+          "updated_at": "2026-11-01T14:37:03Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.2/SillyApp-2.0.2-visp.sillyupdate"
+        }
+      ]
+    },
+    {
+      "tag_name": "v2.0.1",
+      "published_at": "2026-11-01T12:55:48Z",
+      "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.0.1",
+      "body": "Silly App 2.0.1\n\n<!-- silly-build:4ecbf3cd26df -->",
+      "assets": [
+        {
+          "name": "SillyApp-2.0.1-guest.sillyupdate",
+          "label": "Silly App 2.0.1 (Guest)",
+          "size": 2432096,
+          "created_at": "2026-11-01T13:58:38Z",
+          "updated_at": "2026-11-01T13:58:40Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.1/SillyApp-2.0.1-guest.sillyupdate"
+        },
+        {
+          "name": "SillyApp-2.0.1-visp.sillyupdate",
+          "label": "Silly App 2.0.1 (VISP)",
+          "size": 2426664,
+          "created_at": "2026-11-01T13:58:40Z",
+          "updated_at": "2026-11-01T13:58:41Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.1/SillyApp-2.0.1-visp.sillyupdate"
+        }
+      ]
+    },
+    {
+      "tag_name": "v2.0.0",
+      "published_at": "2026-10-31T22:53:53Z",
+      "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.0.0",
+      "body": "Silly App 2.0.0\n\n<!-- silly-build:925860d11e5c -->",
+      "assets": [
+        {
+          "name": "SillyApp-2.0.0-guest.sillyupdate",
+          "label": "Silly App 2.0.0 (Guest)",
+          "size": 2432097,
+          "created_at": "2026-11-01T13:56:45Z",
+          "updated_at": "2026-11-01T13:56:46Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.0/SillyApp-2.0.0-guest.sillyupdate"
+        },
+        {
+          "name": "SillyApp-2.0.0-visp.sillyupdate",
+          "label": "Silly App 2.0.0 (VISP)",
+          "size": 2426661,
+          "created_at": "2026-11-01T13:56:46Z",
+          "updated_at": "2026-11-01T13:56:47Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.0/SillyApp-2.0.0-visp.sillyupdate"
+        }
+      ]
+    }
+  ]
+}
+
