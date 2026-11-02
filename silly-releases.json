@@ -3,6 +3,30 @@
   "note": "Silly App's list of updates (made when publishing).",
   "releases": [
     {
+      "tag_name": "v2.0.8",
+      "published_at": "2026-11-02T03:31:08Z",
+      "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.0.8",
+      "body": "Silly App 2.0.8\n\n<!-- silly-build:67393c644070 -->",
+      "assets": [
+        {
+          "name": "SillyApp-2.0.8-guest.sillyupdate",
+          "label": "Silly App 2.0.8 (Guest)",
+          "size": 2585116,
+          "created_at": "2026-11-02T03:31:09Z",
+          "updated_at": "2026-11-02T03:31:10Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.8/SillyApp-2.0.8-guest.sillyupdate"
+        },
+        {
+          "name": "SillyApp-2.0.8-visp.sillyupdate",
+          "label": "Silly App 2.0.8 (VISP)",
+          "size": 2579512,
+          "created_at": "2026-11-02T03:31:11Z",
+          "updated_at": "2026-11-02T03:31:13Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.0.8/SillyApp-2.0.8-visp.sillyupdate"
+        }
+      ]
+    },
+    {
       "tag_name": "v2.0.7",
       "published_at": "2026-11-02T02:23:56Z",
       "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.0.7",
