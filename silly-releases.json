@@ -250,10 +250,11 @@
       "2.0.2",
       "2.0.3",
       "2.0.4",
-      "2.0.5"
+      "2.0.5",
+      "2.0.6"
     ],
-    "issued": "2026-11-08T05:38:24Z",
-    "signature": "ZDcGUEVu/lDsvvngJd2Rq8uFJ0ih9Iv247MOewPM5iS/yJ2pWx/kaOTjec8tdJ5YVVtvCOFUTR8WDUQ4hGIYmw=="
+    "issued": "2026-11-08T05:38:31Z",
+    "signature": "PGs1lPclau/9BQm2IMqzQLJVU4Sxdoadb5ULYFY+B52t2yZBfhySvZIsgSJ4CbB+LCX97G5BOqj7eqXowHvO2A=="
   }
 }
 
