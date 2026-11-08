@@ -252,10 +252,11 @@
       "2.0.4",
       "2.0.5",
       "2.0.6",
-      "2.0.7"
+      "2.0.7",
+      "2.0.8"
     ],
-    "issued": "2026-11-08T05:38:33Z",
-    "signature": "ItWJ4LIChVgn90WzenXXT/uV/OXV1w5XgAy+H7l2Qwc0KYJy8e1pWH6U1TFPiMLxGLNXQLwrgcDVuAzetn3Yww=="
+    "issued": "2026-11-08T05:38:36Z",
+    "signature": "hKuKQRayWLa9HsoTi8Kbn9WF9Duo3NyX8+TewKwLTfmfypoPbdaqA7fxvbz06eQoGGvSkvKhDqB7RA0KpTxGAw=="
   }
 }
 
