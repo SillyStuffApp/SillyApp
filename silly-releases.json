@@ -246,10 +246,11 @@
   "pulled": {
     "versions": [
       "2.0.0",
-      "2.0.1"
+      "2.0.1",
+      "2.0.2"
     ],
-    "issued": "2026-11-08T05:38:10Z",
-    "signature": "Y63mdvICHKKnOPMYDK6MzkUxc4reZbSmD8Q+4wKk/I4z4eqe1WIJrb4KE03OgahIPXeV5haBGNhHIhxjCRsaMw=="
+    "issued": "2026-11-08T05:38:14Z",
+    "signature": "vFzHdzXt+q7Gdy5aY6jILBRfWNX5c1bmVdE+QSDxyWZoNDUpSDkUpaSBUvRNxVOE/6NEAneLpa1V5WZjEBj1zQ=="
   }
 }
 
