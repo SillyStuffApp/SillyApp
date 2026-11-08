@@ -247,10 +247,11 @@
     "versions": [
       "2.0.0",
       "2.0.1",
-      "2.0.2"
+      "2.0.2",
+      "2.0.3"
     ],
-    "issued": "2026-11-08T05:38:14Z",
-    "signature": "vFzHdzXt+q7Gdy5aY6jILBRfWNX5c1bmVdE+QSDxyWZoNDUpSDkUpaSBUvRNxVOE/6NEAneLpa1V5WZjEBj1zQ=="
+    "issued": "2026-11-08T05:38:17Z",
+    "signature": "/MAJZsraWrqk5DfOKA6dKiAUlUrdpDmHSvKl2fFlDukxKyyrUxImUvKxlWLkdWkXbP0c87zSH6eRs5aRJFOfIg=="
   }
 }
 
