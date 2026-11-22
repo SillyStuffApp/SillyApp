@@ -3,6 +3,30 @@
   "note": "Silly App's list of updates (made when publishing).",
   "releases": [
     {
+      "tag_name": "v2.1.6",
+      "published_at": "2026-11-22T06:51:18Z",
+      "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.1.6",
+      "body": "Updated video player\n\n<!-- silly-build:d3898ca75935 -->",
+      "assets": [
+        {
+          "name": "SillyApp-2.1.6-guest.sillyupdate",
+          "label": "Silly App 2.1.6 (Guest)",
+          "size": 3010878,
+          "created_at": "2026-11-22T06:51:19Z",
+          "updated_at": "2026-11-22T06:51:21Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.1.6/SillyApp-2.1.6-guest.sillyupdate"
+        },
+        {
+          "name": "SillyApp-2.1.6-visp.sillyupdate",
+          "label": "Silly App 2.1.6 (VISP)",
+          "size": 3006791,
+          "created_at": "2026-11-22T06:51:21Z",
+          "updated_at": "2026-11-22T06:51:22Z",
+          "browser_download_url": "https://github.com/SillyStuffApp/SillyApp/releases/download/v2.1.6/SillyApp-2.1.6-visp.sillyupdate"
+        }
+      ]
+    },
+    {
       "tag_name": "v2.1.5",
       "published_at": "2026-11-19T10:47:14Z",
       "html_url": "https://github.com/SillyStuffApp/SillyApp/releases/tag/v2.1.5",
@@ -401,7 +425,7 @@
       "2.0.9"
     ],
     "issued": "2026-11-08T05:38:40Z",
-    "signature": "VkTJI/+zq9fS9Nfqj80Y/2y2EmIuPzXi+2k2U2gOJNRK5HBX7iXWhwtpYxXCSpGGgTdQD5ULn7A1QL+Z07LWOA=="
+    "signature": "JrpDPSlUfESOPHYXccmFHFb/FbixMj/NVcLdNEnzdqf+Usn0p1VqTDf7uKGW1U4jGh1QRIdqU/1RnPpDu7RLUA=="
   }
 }
 
